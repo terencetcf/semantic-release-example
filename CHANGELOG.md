@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/terencetcf/semantic-release-example/compare/v1.1.1...v1.2.0) (2022-07-30)
+
+
+### Features
+
+* create alpha release workflow ([#4](https://github.com/terencetcf/semantic-release-example/issues/4)) ([7eddfe2](https://github.com/terencetcf/semantic-release-example/commit/7eddfe227c71eda9ac65cd2802df684aeb7520cb))
+
 # [1.2.0-alpha.2](https://github.com/terencetcf/semantic-release-example/compare/v1.2.0-alpha.1...v1.2.0-alpha.2) (2022-07-30)
 
 ### Bug Fixes
