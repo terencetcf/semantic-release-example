@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-example",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A semantic release example",
   "author": "Terence Tai",
   "private": true,
