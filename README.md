@@ -10,7 +10,8 @@ Create a branch from a version tag:
 git checkout -b 1.1.x v1.1.0
 ```
 
-make changes and commit the changes. Run `Run Semantic Release` to create the hotfix version, once its done, then PR to main.
+Continue to make changes and commit the changes. Run `Run Semantic Release` to create the hotfix version.
+Once its done, then create PR to main so that the fixes are available in trunk.
 
 ## To create beta pre-release
 
