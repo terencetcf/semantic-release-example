@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/terencetcf/semantic-release-example/compare/v1.2.0...v1.3.0) (2022-07-31)
+
+
+### Features
+
+* add hotfix release instruction in readme ([55d2948](https://github.com/terencetcf/semantic-release-example/commit/55d2948cfb3eba97ce7a7cf6ece0e28f36f78e7c))
+
 # [1.2.0](https://github.com/terencetcf/semantic-release-example/compare/v1.1.1...v1.2.0) (2022-07-30)
 
 ### Features
